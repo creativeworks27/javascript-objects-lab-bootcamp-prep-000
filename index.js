@@ -1,4 +1,4 @@
-var obj = { prop: 1 };
+var recipies = { prop: 1 };
 
 function updateObjectWithKeyAndValue(object, key, value){
   
